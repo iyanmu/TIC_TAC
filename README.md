@@ -1,6 +1,3 @@
-Berikut adalah versi terbaru dari `README.md` yang sudah ditambahkan dengan preview gambar:
-
-```markdown
 # TIC_TAC
 
 TIC_TAC adalah permainan Tic Tac Toe (Lingkaran dan Silang) yang dibangun menggunakan HTML, CSS, dan JavaScript. Permainan ini dapat dimainkan oleh dua pemain secara bergantian di perangkat yang sama.
@@ -42,27 +39,3 @@ Jika Anda ingin menjalankan proyek ini di komputer lokal Anda, ikuti langkah-lan
 1. **Clone repositori ini**:
    ```bash
    git clone https://github.com/iyanmu/TIC_TAC.git
-   ```
-2. **Buka folder proyek**:
-   ```bash
-   cd TIC_TAC
-   ```
-3. **Buka file `index.html`**:
-   - Buka file `index.html` di browser Anda menggunakan live server atau langsung membukanya di browser.
-
-## Struktur Proyek
-
-```
-TIC_TAC/
-├── index.html       # File utama HTML
-├── style.css        # File CSS untuk styling
-├── script.js        # File JavaScript untuk logika permainan
-└── README.md        # File dokumentasi ini
-```
-
-## Kontribusi
-
-Jika Anda ingin berkontribusi pada proyek ini, silakan buka [issue](https://github.com/iyanmu/TIC_TAC/issues) atau ajukan pull request. Semua kontribusi sangat dihargai!
-
-Selamat bermain! Jika Anda memiliki pertanyaan atau masukan, silakan hubungi saya. 😊
-Semoga membantu! 😊
